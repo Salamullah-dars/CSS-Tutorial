@@ -1,0 +1,15 @@
+div, h1{
+    color: red;
+    background-color: yellow;
+}
+
+div > p{
+    color: rgba(71, 20, 20, 0.084);
+    background-color: rgb(26, 113, 0);
+
+}
+
+p{
+    background-color: aquamarine;
+    color: rgb(255, 251, 251);
+}
